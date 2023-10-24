@@ -16,6 +16,7 @@ body {
     background-image: url('./assets/charitybg1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .content-text-container{
